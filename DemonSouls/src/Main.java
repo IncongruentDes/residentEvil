@@ -13,19 +13,20 @@ import java.util.ArrayList;
 public class Main {
 
 	public static void main(String[] args) {
+		
+		// - data assembly
 		ArrayList<weapons> weaponList = weaponSet();
 		ArrayList<armor> armorList = armorSet();
 		ArrayList<sheilds> sheildList = sheildSet();
 		ArrayList<rings> ringList = ringSet();
-		
 		ArrayList<magic> magicSet = magicSet();
-		
 		ArrayList<equipment> fullset = combineEquipment(armorList, 
 				sheildList, weaponList, ringList);
 		
-		forLoops(fullset);
+		// - input/calculator section
+		inputs();
 		
-		weakestWeapon(weaponList);
+
 
 	}
 	
@@ -50,6 +51,44 @@ public class Main {
 		}
 		
 		return lines;
+	}
+	
+	// -input section
+	public static void inputs() {
+		System.out.println("Welcome to the Demon Souls Database. If you'd like to search the entire database, please hit 'enter'.\n"
+				+ "Otherwise, please type 'weapons' for weapons, 'armor' for armor, 'sheilds' for sheilds', 'rings' for rings and "
+				+ "'magic for magic'");
+		
+		
+		Scanner myObj = new Scanner(System.in);  // Create a Scanner object
+		String input = myObj.nextLine();  // Read user input
+
+	    while (true) {
+	        if (input.equals("weapons")) {
+	            // TODO
+	            break;
+	        } else if (input.equals("armor")) {
+	            // TODO
+	            break;
+	        } else if (input.equals("shields")) {
+	            // TODO
+	            break;
+	        } else if (input.equals("rings")) {
+	            // TODO
+	            break;
+	        } else if (input.equals("magic")) {
+	            // TODO
+	            break;
+	        } else if (input.equals("")) {
+	            //TODO
+	        	break;
+	        } else {
+	            System.out.println("You did not enter a valid option. Please try again:");
+	            input = myObj.nextLine();
+	        }
+	    }
+		
+		
 	}
 	
 	public static ArrayList<weapons> weaponSet() {
@@ -188,6 +227,12 @@ public class Main {
 	    }
 	    return fullSet;
 	}
+	
+	
+	
+	
+	
+	// - calculates weakest weapon, not critical to the project
 	public static void weakestWeapon(ArrayList<weapons> weaponSet) {
 		weapons weakestWeapon = weaponSet.get(0);
 		
