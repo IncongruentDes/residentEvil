@@ -24,6 +24,8 @@ public class Main {
 				sheildList, weaponList, ringList);
 		
 		forLoops(fullset);
+		
+		weakestWeapon(weaponList);
 
 	}
 	
@@ -186,6 +188,21 @@ public class Main {
 	    }
 	    return fullSet;
 	}
+	public static void weakestWeapon(ArrayList<weapons> weaponSet) {
+		weapons weakestWeapon = weaponSet.get(0);
+		
+		for (weapons x: weaponSet) {
+			if (x.avgStats < weakestWeapon.avgStats) {
+				weakestWeapon = x;
+			}
+		}
+		
+		System.out.println("the most weak sauce weapon in Demon Souls is " + weakestWeapon);
+		
+		
+	}
+	
+	
 	
 	//- clean up data function
 	public static String[] lineSets(String line) {

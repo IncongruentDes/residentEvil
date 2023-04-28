@@ -13,6 +13,9 @@ public class weapons extends equipment {
 	public float guardBreak;
 	public float range;
 	public float magAdjust;
+	
+	// -avgStats
+	public float avgStats;
 
 	public weapons(String Name, String Type, Float Dur, Float Weight) {
 		name = Name;
@@ -37,6 +40,8 @@ public class weapons extends equipment {
 		guardBreak = GuardBreak;
 		range = Range;
 		magAdjust = MagAdjust;
+		
+		avgStats = (physAttack + magAttack + fireAttack + bleeding + poison + plague + critStrike + damageRed + guardBreak + range + magAdjust)/10;
 
 	}
 	
@@ -51,5 +56,6 @@ public class weapons extends equipment {
 		plague + " " + critStrike + " " + damageRed + " " + magFireRed + " " + guardBreak + " " + range + " " + magAdjust;
 		return str;
 	}
+	
 	
 }
