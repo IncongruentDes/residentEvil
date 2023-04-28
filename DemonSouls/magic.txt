@@ -1,0 +1,34 @@
+Acid Cloud	@	Spell	@	30	@	4-6 Seconds	@	1	@	Cloud
+Cloak	@	Spell	@	10	@	30 Seconds	@	1	@	Bluff
+Curse Weapon	@	Spell	@	100	@	60 Seconds	@	3	@	Weapon Buff
+Death Cloud	@	Spell	@	30	@	10 Minutes	@	2	@	Cloud
+Enchant Weapon	@	Spell	@	20	@	60 Seconds	@	1	@	Weapon Buff
+Familiar's Prank	@	Spell	@	4	@	Instant	@	1	@	Distraction
+Fireball	@	Spell	@	20	@	Instant	@	2	@	Damage
+Fire Spray	@	Spell	@	2	@	Instant	@	1	@	Damage
+Firestorm	@	Spell	@	100	@	4.5 Seconds	@	3	@	Area of Effect
+Flame Toss	@	Spell	@	9	@	Instant	@	1	@	Damage 
+Homing Soul Arrow	@	Spell	@	40	@	2 Minutes	@	2	@	Damage
+Ignite	@	Spell	@	18	@	Instant	@	2	@	Damage 
+Light Weapon	@	Spell	@	50	@	60 Seconds	@	2	@	Weapon Buff
+Poison Cloud	@	Spell	@	15	@	4-6 Seconds	@	1	@	Cloud
+Protection	@	Spell	@	20	@	40 Seconds	@	1	@	Buff
+Relief	@	Spell	@	18	@	Instant	@	1	@	Ally Restore
+Soul Arrow	@	Spell	@	5	@	Instant	@	1	@	Damage
+Soul Ray	@	Spell	@	15	@	Instant	@	1	@	Ranged Damage
+Soulsucker	@	Spell	@	100	@	Instant	@	3	@	Kill
+Soul Thirst	@	Spell	@	200	@	30 Seconds	@	3	@	Buff
+Warding	@	Spell	@	50	@	40 Seconds	@	2	@	Buff
+Water Veil	@	Spell	@	20	@	60 Seconds	@	1	@	Buff
+Antidote	@	Miracle	@	20	@	Instant	@	1	@	Status Restore
+Anti-Magic Sheild	@	Miracle	@	10	@	60 Seconds	@	2	@	Buff
+Banish	@	Miracle	@	50	@	Instant	@	2	@	Recall
+Cure	@	Miracle	@	30	@	Instant	@	1	@	Status Restore
+Evacuate	@	Miracle	@	40	@	Instant	@	1	@	Recall
+God's Wrath	@	Miracle	@	100	@	Instant	@	2	@	AoE Damage
+Heal	@	Miracle	@	30	@	Instant	@	1	@	Healing
+Hidden Soul	@	Miracle	@	30	@	Instant	@	1	@	Buff
+Recovery	@	Miracle	@	60	@	Instant	@	2	@	Healing
+Regeneration	@	Miracle	@	40	@	100 Seconds	@	1	@	Healing Buff
+Resurrection	@	Miracle	@	50	@	Instant	@	1	@	Resurrection
+Second Chance	@	Miracle	@	100	@	Until Death	@	2	@	Buff

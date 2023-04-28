@@ -1,0 +1,124 @@
+Ancient King Set	@	Ancient King 	@	81	@	81	@	97.8	@	60	@	39	@	0	@	81	@	64	@	89	@	20	@	800	@	Male	@	Medium Armor
+Ancient King's Mask	@	Ancient King 	@	12	@	12	@	15	@	8	@	6	@	0	@	12	@	9	@	13	@	3.1	@	800	@	Male	@	Helms
+Ancient King's Breastplate	@	Ancient King 	@	31	@	31	@	37.2	@	24	@	15	@	0	@	31	@	21	@	34	@	7.7	@	800	@	Male	@	Chest Armor
+Ancient King's Gauntlets	@	Ancient King 	@	19	@	19	@	22.8	@	14	@	9	@	0	@	19	@	13	@	21	@	4.6	@	800	@	Male	@	Gauntlets
+Ancient King's Grieves	@	Ancient King 	@	19	@	19	@	22.8	@	14	@	9	@	0	@	19	@	21	@	21	@	4.6	@	800	@	Male	@	Leggings
+Blinded Set	@	Blinded Cross	@	75	@	75	@	75	@	39	@	39	@	0	@	75	@	51	@	57	@	15.1	@	300	@	Female	@	Medium Armor
+Binded Hood	@	Blinded Cross	@	12	@	12	@	12	@	6	@	6	@	0	@	12	@	8	@	11	@	2.3	@	300	@	Female	@	Helms
+Binded Cross	@	Blinded Cross	@	29	@	29	@	29	@	15	@	15	@	0	@	29	@	19	@	26	@	5.8	@	300	@	Female	@	Chest Armor
+Binded Gloves	@	Blinded Cross	@	17	@	17	@	17	@	9	@	9	@	0	@	17	@	12	@	15	@	3.5	@	300	@	Female	@	Gauntlets
+Binded Boots	@	Blinded Cross	@	17	@	17	@	17	@	9	@	9	@	0	@	17	@	12	@	15	@	3.5	@	300	@	Female	@	Leggings
+Black Leather Set	@	Black Leather Set	@	65	@	65	@	65	@	39	@	160	@	0	@	65	@	51	@	44	@	3.1	@	300	@	Unisex	@	Light Armor
+Assasin's Mask	@	Black Leather Set	@	10	@	10	@	10	@	6	@	24	@	0	@	10	@	8	@	7	@	0.5	@	300	@	Unisex	@	Helms
+Black Leather Garb	@	Black Leather Set	@	25	@	25	@	25	@	15	@	62	@	0	@	25	@	19	@	17	@	1.2	@	300	@	Unisex	@	Chest Armor
+Black Gloves	@	Black Leather Set	@	15	@	15	@	15	@	9	@	37	@	0	@	15	@	12	@	10	@	0.7	@	300	@	Unisex	@	Guantlets
+Black Boots	@	Black Leather Set	@	15	@	15	@	15	@	9	@	37	@	0	@	15	@	12	@	10	@	0.7	@	300	@	Unisex	@	Leggings
+Brushwood Set	@	Brushwood Set	@	109	@	109	@	131.7	@	60	@	39	@	0	@	109	@	51	@	83	@	45	@	600	@	Unisex	@	Heavy Armor
+Brushwood Helm	@	Brushwood Set	@	17	@	17	@	21.3	@	8	@	6	@	0	@	17	@	8	@	14	@	6.9	@	600	@	Unisex	@	Helms
+Brushwood Armor	@	Brushwood Set	@	42	@	32	@	50.4	@	24	@	15	@	0	@	42	@	19	@	31	@	17.3	@	600	@	Unisex	@	Chest Armor
+Brushwood Gauntlets	@	Brushwood Set	@	25	@	25	@	30	@	14	@	9	@	0	@	25	@	12	@	19	@	10.4	@	600	@	Unisex	@	Guantlets
+Brushwood Greaves	@	Brushwood Set	@	25	@	25	@	30	@	14	@	9	@	0	@	25	@	12	@	19	@	10.4	@	600	@	Unisex	@	Leggings
+Chain Mail Set	@	Chain Mail Set	@	85	@	85	@	107.3	@	60	@	39	@	0	@	74.4	@	51	@	59	@	25	@	300	@	Unisex	@	Medium Armor
+Mail Coif (Chain Mail)	@	Chain Mail Set	@	13	@	13	@	16.9	@	8	@	6	@	0	@	13	@	10.4	@	9	@	3.8	@	300	@	Unisex	@	Helms
+Chain Mail (Chain Mail)	@	Chain Mail Set	@	32	@	32	@	41.6	@	24	@	15	@	0	@	25.6	@	19	@	22	@	9.6	@	300	@	Unisex	@	Chest Armor
+Chain Gloves (Chain Mail)	@	Chain Mail Set	@	20	@	20	@	26	@	14	@	9	@	0	@	16	@	12	@	14	@	5.8	@	300	@	Unisex	@	Guantlets
+Hard Leather Boots (Chain Mail)	@	Chain Mail Set	@	20	@	20	@	26	@	14	@	9	@	0	@	16	@	12	@	14	@	5.8	@	300	@	Unisex	@	Leggings
+Dark Silver Set	@	Dark Silver Set	@	90	@	90	@	108.7	@	60	@	39	@	0	@	90	@	70	@	63	@	35.1	@	550	@	Male	@	Heavy Armor
+Dark Silver Helmet	@	Dark Silver Set	@	14	@	14	@	17.5	@	8	@	6	@	0	@	14	@	11	@	10	@	5.4	@	550	@	Male	@	Helms
+Dark Silver Armor	@	Dark Silver Set	@	36	@	36	@	43.2	@	24	@	15	@	0	@	36	@	27	@	25	@	13.5	@	550	@	Male	@	Chest Armor
+Dark Silver Guantlets	@	Dark Silver Set	@	20	@	20	@	24	@	14	@	9	@	0	@	20	@	16	@	14	@	8.1	@	550	@	Male	@	Guantlets
+Dark Silver Greaves	@	Dark Silver Set	@	20	@	20	@	24	@	14	@	9	@	0	@	20	@	16	@	14	@	8.1	@	550	@	Male	@	Leggings
+Dull Gold Set	@	Dull Gold Set	@	83	@	83	@	100.3	@	60	@	39	@	0	@	83	@	70	@	57	@	25	@	550	@	Female	@	Medium Armor
+Dull Gold Helmet	@	Dull Gold Set	@	13	@	13	@	16.3	@	8	@	6	@	0	@	13	@	11	@	9	@	3.8	@	550	@	Female	@	Helms
+Dull Gold Armor	@	Dull Gold Set	@	32	@	32	@	38.4	@	24	@	15	@	0	@	32	@	27	@	22	@	9.6	@	550	@	Female	@	Chest Armor
+Dull Gold Gauntlet	@	Dull Gold Set	@	19	@	19	@	22.8	@	14	@	9	@	0	@	19	@	16	@	13	@	5.8	@	550	@	Female	@	Guantlets
+Dull Gold Leggings	@	Dull Gold Set	@	19	@	19	@	22.8	@	14	@	9	@	0	@	19	@	16	@	13	@	5.8	@	550	@	Female	@	Leggings
+Fluted Set	@	Fluted Set	@	90	@	90	@	108.7	@	60	@	39	@	0	@	90	@	51	@	64	@	29.9	@	250	@	Unisex	@	Heavy Armor
+Fluted Helm	@	Fluted Set	@	14	@	14	@	17.5	@	8	@	6	@	0	@	14	@	8	@	10	@	4.6	@	250	@	Unisex	@	Helms
+Fluted Armor	@	Fluted Set	@	34	@	34	@	40.7	@	24	@	15	@	0	@	34	@	19	@	24	@	11.5	@	250	@	Unisex	@	Chest Armor
+Fluted Guantlets	@	Fluted Set	@	21	@	21	@	25.3	@	14	@	9	@	0	@	21	@	12	@	15	@	6.9	@	250	@	Unisex	@	Guantlets
+Fluted Greaves	@	Fluted Set	@	21	@	21	@	25.3	@	14	@	9	@	0	@	21	@	12	@	15	@	6.9	@	250	@	Unisex	@	Leggings
+Gloom Set	@	Gloom Set	@	87	@	87	@	105.1	@	120	@	120	@	120	@	87	@	51	@	61	@	29.9	@	450	@	Unisex	@	Heavy Armor
+Gloom Helm	@	Gloom Set	@	13	@	13	@	16.3	@	18	@	18	@	18	@	13	@	8	@	9	@	4.6	@	450	@	Unisex	@	Helms
+Gloom Armor	@	Gloom Set	@	34	@	34	@	40.8	@	46	@	46	@	46	@	34	@	19	@	24	@	11.5	@	450	@	Unisex	@	Chest Armor
+Gloom Gauntlets	@	Gloom Set	@	20	@	20	@	24	@	28	@	28	@	28	@	20	@	12	@	14	@	6.9	@	450	@	Unisex	@	Guantlets
+Gloom Greaves	@	Gloom Set	@	20	@	20	@	24	@	28	@	28	@	28	@	20	@	12	@	14	@	6.9	@	450	@	Unisex	@	Leggings
+Leather Set	@	Leather Set	@	73	@	73	@	73	@	39	@	39	@	0	@	73	@	48	@	52	@	7.9	@	400	@	Unisex	@	Light Armor
+Leather Cap	@	Leather Set	@	11	@	11	@	11	@	6	@	6	@	0	@	11	@	8	@	8	@	1.2	@	400	@	Unisex	@	Helms
+Leather Armor	@	Leather Set	@	28	@	28	@	28	@	15	@	15	@	0	@	28	@	16	@	20	@	3.1	@	400	@	Unisex	@	Chest Armor
+Leather Gloves	@	Leather Set	@	17	@	17	@	17	@	9	@	9	@	0	@	17	@	12	@	12	@	1.8	@	400	@	Unisex	@	Guantlets
+Leather Boots	@	Leather Set	@	17	@	17	@	17	@	9	@	9	@	0	@	17	@	12	@	12	@	1.8	@	400	@	Unisex	@	Leggings
+Mirdan Set	@	Mirdan Set	@	94	@	94	@	113.5	@	60	@	39	@	0	@	94	@	56	@	84	@	35.1	@	200	@	Male	@	Heavy Armor
+Mirdan Helmet	@	Mirdan Set	@	14	@	14	@	17.5	@	8	@	6	@	0	@	14	@	9	@	12	@	5.4	@	200	@	Male	@	Helms
+Mirdan Scale Armor	@	Mirdan Set	@	36	@	36	@	43.2	@	24	@	15	@	0	@	36	@	21	@	32	@	13.5	@	200	@	Male	@	Chest Armor
+Mirdan Gauntlets	@	Mirdan Set	@	22	@	22	@	26.4	@	14	@	9	@	0	@	22	@	13	@	20	@	8.1	@	200	@	Male	@	Guantlets
+Mirdan Leggings	@	Mirdan Set	@	22	@	22	@	26.4	@	14	@	9	@	0	@	22	@	20	@	20	@	8.1	@	200	@	Male	@	Leggings
+Old Raggedy Set	@	Old Raggedy Set	@	68	@	81.6	@	68	@	39	@	39	@	160	@	68	@	60	@	34	@	9.1	@	300	@	Female	@	Light Armor
+Three Cornered Hat	@	Old Raggedy Set	@	10	@	12	@	10	@	6	@	6	@	24	@	10	@	9	@	5	@	1.4	@	300	@	Female	@	Helms
+old Raggedy Robes	@	Old Raggedy Set	@	26	@	31.2	@	26	@	15	@	15	@	62	@	26	@	23	@	13	@	3.5	@	300	@	Female	@	Chest Armor
+Old Raggedy Gloves	@	Old Raggedy Set	@	16	@	19.2	@	16	@	9	@	9	@	37	@	16	@	14	@	8	@	2.1	@	300	@	Female	@	Guantlets
+Old Ragged Boots	@	Old Raggedy Set	@	16	@	19.2	@	16	@	9	@	9	@	37	@	16	@	14	@	8	@	2.1	@	300	@	Female	@	Leggings
+Plate Set	@	Plate Set	@	85	@	85	@	102.7	@	80	@	39	@	0	@	85	@	51	@	59	@	25	@	300	@	Unisex	@	Light Armor
+Plate Helmet	@	Plate Set	@	13	@	13	@	16.3	@	8	@	6	@	0	@	13	@	8	@	9	@	3.8	@	300	@	Unisex	@	Helms
+Coat of Plates	@	Plate Set	@	32	@	32	@	38.4	@	24	@	15	@	0	@	32	@	19	@	22	@	9.6	@	300	@	Unisex	@	Chest Armor
+Plate Gauntlets	@	Plate Set	@	20	@	20	@	24	@	14	@	9	@	0	@	20	@	12	@	14	@	5.8	@	300	@	Unisex	@	Guantlets
+Plate Greaves	@	Plate Set	@	20	@	20	@	24	@	14	@	9	@	0	@	20	@	12	@	14	@	5.8	@	300	@	Unisex	@	Leggings
+Rogue's Set	@	Rogue's Set	@	68	@	81.6	@	68	@	39	@	39	@	160	@	68	@	60	@	34	@	9.1	@	300	@	Female	@	Light Armor
+Gold Mask	@	Rogue's Set	@	2	@	2	@	2	@	16	@	16	@	16	@	2	@	8	@	8	@	0.6	@	150	@	Female	@	Helms
+Rogue's Clothes	@	Rogue's Set	@	25	@	25	@	25	@	15	@	15	@	62	@	25	@	25	@	17	@	1.5	@	150	@	Female	@	Chest Armor
+Rogue's Gloves	@	Rogue's Set	@	15	@	15	@	15	@	9	@	9	@	0	@	15	@	15	@	10	@	0.9	@	150	@	Female	@	Guantlets
+Rogue's Boots	@	Rogue's Set	@	15	@	15	@	15	@	9	@	9	@	0	@	15	@	15	@	10	@	0.9	@	150	@	Female	@	Leggings
+Saint's Set	@	Saint's Set	@	59	@	70.8	@	59	@	34	@	34	@	0	@	59	@	51	@	34	@	10.2	@	450	@	Unisex	@	Medium Armor
+Saint's Robes	@	Saint's Set	@	27	@	32.4	@	27	@	15	@	15	@	0	@	27	@	23	@	16	@	4.6	@	450	@	Unisex	@	Chest Armor
+Saint's Gloves	@	Saint's Set	@	16	@	19.2	@	16	@	9	@	9	@	0	@	16	@	14	@	9	@	2.8	@	450	@	Unisex	@	Gauntlets
+Saint's Boots	@	Saint's Set	@	16	@	19.2	@	16	@	9	@	9	@	0	@	16	@	14	@	9	@	2.8	@	450	@	Unisex	@	Leggings
+Shaman's Set	@	Shaman's Set	@	55	@	55	@	55	@	33	@	33	@	0	@	55	@	43	@	37	@	3.3	@	300	@	Unisex	@	Light Armor
+Shaman's Clothes	@	Shaman's Set	@	25	@	25	@	25	@	15	@	15	@	0	@	25	@	19	@	17	@	1.5	@	300	@	Unisex	@	Chest Armor
+Shaman's Armband	@	Shaman's Set	@	15	@	15	@	15	@	9	@	9	@	0	@	15	@	12	@	10	@	0.9	@	300	@	Unisex	@	Gauntlets
+Shaman's Tabi	@	Shaman's Set	@	15	@	15	@	15	@	9	@	9	@	0	@	15	@	12	@	10	@	0.9	@	300	@	Unisex	@	Leggings
+Venerable Sage's Set	@	Venerable Sage's Set	@	68	@	81.6	@	68	@	39	@	39	@	160	@	68	@	60	@	34	@	9.1	@	500	@	Male	@	Light Armor
+Venerable Sage's Hood	@	Venerable Sage's Set	@	11	@	13.2	@	11	@	6	@	6	@	0	@	11	@	9	@	8	@	1.5	@	500	@	Male	@	Helms
+Venerable Sage's Robe	@	Venerable Sage's Set	@	27	@	32.4	@	27	@	15	@	15	@	0	@	27	@	23	@	19	@	3.8	@	500	@	Male	@	Chest Armor
+Venerable Sage's Gloves	@	Venerable Sage's Set	@	16	@	19.2	@	16	@	9	@	9	@	0	@	16	@	14	@	11	@	2.8	@	500	@	Male	@	Guantlets
+Venerable Sage's Boots	@	Venerable Sage's Set	@	16	@	19.2	@	16	@	9	@	9	@	0	@	16	@	14	@	11	@	2.8	@	500	@	Male	@	Leggings
+Wizard's Set	@	Wizard's Set	@	59	@	70.8	@	59	@	34	@	34	@	0	@	59	@	51	@	34	@	10.2	@	450	@	Unisex	@	Light Armor
+Wizard's Clothes	@	Wizard's Set	@	26	@	26	@	26	@	15	@	15	@	0	@	26	@	19	@	18	@	1.9	@	350	@	Unisex	@	Chest Armor
+Wizard's Gloves	@	Wizard's Set	@	16	@	16	@	16	@	9	@	9	@	0	@	16	@	12	@	11	@	1.2	@	350	@	Unisex	@	Guantlets
+Wizard's Shoes	@	Wizard's Set	@	16	@	16	@	16	@	9	@	9	@	0	@	16	@	12	@	11	@	1.2	@	350	@	Unisex	@	Leggings
+Red Eye Knight Set	@	Red Eye Knight Set	@	77	@	60	@	67	@	50	@	30	@	0	@	60	@	49	@	59	@	27.4	@	450	@	Unisex	@	Heavy Armor
+Red Eye Knight Helm	@	Red Eye Knight Set	@	11	@	11	@	12	@	12	@	6	@	0	@	11	@	6	@	10	@	4.5	@	450	@	Unisex	@	Helms
+Red Eye Knight Cuirass	@	Red Eye Knight Set	@	32	@	32	@	36	@	24	@	15	@	0	@	32	@	19	@	21	@	10.5	@	450	@	Unisex	@	Chest Armor
+Red Eye Knight Gauntlets	@	Red Eye Knight Set	@	17	@	17	@	19	@	14	@	9	@	0	@	17	@	12	@	14	@	6.2	@	450	@	Unisex	@	Guantlets
+Red Eye Knight Greaves	@	Red Eye Knight Set	@	17	@	17	@	19	@	14	@	9	@	0	@	17	@	12	@	14	@	6.2	@	450	@	Unisex	@	Leggings
+Boletarian Royalty Set	@	Boletarian Royalty Set	@	44	@	44	@	36	@	24	@	24	@	0	@	44	@	32	@	43	@	5.8	@	350	@	Unisex	@	Light Armor
+Boletarian Royalty Clothes	@	Boletarian Royalty Set	@	20	@	22	@	20	@	15	@	15	@	0	@	20	@	19	@	17	@	2.8	@	350	@	Unisex	@	Chest Armor
+Boletarian Royalty Armbands	@	Boletarian Royalty Set	@	12	@	14	@	12	@	9	@	9	@	0	@	12	@	12	@	10	@	1.5	@	350	@	Unisex	@	Guantlets
+Boletarian Royalty Leggings	@	Boletarian Royalty Set	@	12	@	14	@	12	@	9	@	9	@	0	@	12	@	12	@	10	@	1.5	@	350	@	Unisex	@	Leggings
+Official's Set	@	Official's Set	@	49	@	49	@	58	@	33	@	33	@	0	@	38	@	47	@	60	@	4.8	@	175	@	Unisex	@	Light Armor
+Official's Cap	@	Official's Set	@	5	@	5	@	5	@	0	@	0	@	0	@	5	@	8	@	3	@	0.5	@	50	@	Unisex	@	Helms
+Official's Clothes	@	Official's Set	@	20	@	20	@	23	@	15	@	15	@	0	@	15	@	18	@	25	@	1.9	@	250	@	Unisex	@	Chest Armor
+Official's Gloves	@	Official's Set	@	12	@	12	@	15	@	9	@	9	@	0	@	9	@	12	@	16	@	1.2	@	200	@	Unisex	@	Guantlets
+Official's Leggings	@	Official's Set	@	12	@	12	@	15	@	9	@	9	@	0	@	9	@	12	@	16	@	1.2	@	200	@	Unisex	@	Leggings
+Penetrator Set	@	Penetrator Set	@	94	@	94	@	111	@	76	@	37	@	0	@	59	@	49	@	60	@	31.3	@	487.5	@	Unisex	@	Heavy Armor
+Penetrator's Helmet	@	Penetrator Set	@	14	@	14	@	14	@	12	@	4	@	0	@	16	@	6	@	12	@	4.8	@	450	@	Unisex	@	Helms
+Penetrator's Cuirass	@	Penetrator Set	@	36	@	36	@	43	@	28	@	15	@	0	@	43	@	19	@	24	@	11.5	@	500	@	Unisex	@	Chest Armor
+Penetrator's Gauntlets	@	Penetrator Set	@	22	@	0	@	0	@	0	@	0	@	0	@	0	@	12	@	12	@	7.5	@	500	@	Unisex	@	Guantlets
+Penetrator's Greaves	@	Penetrator Set	@	22	@	0	@	0	@	0	@	0	@	0	@	0	@	12	@	12	@	7.5	@	500	@	Unisex	@	Leggings
+Burrower's Set	@	Burrower's Set	@	61	@	66	@	65	@	43	@	33	@	0	@	61	@	43	@	67	@	20.9	@	517	@	Unisex	@	Light Armor
+Burrower's Armor	@	Burrower's Set	@	27	@	32	@	27	@	15	@	15	@	0	@	27	@	19	@	39	@	8.5	@	550	@	Unisex	@	Chest Armor
+Burrower's Armbands	@	Burrower's Set	@	17	@	17	@	19	@	14	@	9	@	0	@	17	@	12	@	14	@	6.2	@	450	@	Unisex	@	Guantlets
+Burrower's Boots	@	Burrower's Set	@	17	@	17	@	19	@	14	@	9	@	0	@	17	@	12	@	14	@	6.2	@	550	@	Unisex	@	Leggings
+Imperial Spy Set	@	Imperial Spy Set	@	68	@	68	@	68	@	60	@	126	@	0	@	68	@	51	@	56	@	3.8	@	350	@	Unisex	@	Light Armor
+Imperial Spy Hood	@	Imperial Spy Set	@	12	@	12	@	12	@	8	@	16	@	0	@	12	@	8	@	10	@	0.5	@	300	@	Unisex	@	Helms
+Imperial Spy Clothes	@	Imperial Spy Set	@	26	@	26	@	26	@	24	@	46	@	0	@	26	@	19	@	18	@	1.5	@	350	@	Unisex	@	Chest Armor
+Imperial Spy Gloves	@	Imperial Spy Set	@	15	@	15	@	15	@	14	@	32	@	0	@	15	@	12	@	14	@	0.9	@	350	@	Unisex	@	Guantlets
+Imperial Spy Leggings	@	Imperial Spy Set	@	15	@	15	@	15	@	14	@	32	@	0	@	15	@	12	@	14	@	0.9	@	350	@	Unisex	@	Leggings
+Blue Eyed Knight Set	@	Blue Eyed Knight Set	@	77	@	60	@	67	@	50	@	30	@	0	@	60	@	49	@	59	@	27.4	@	437.5	@	Unisex	@	Heavy Armor
+Blue Eyed Knight Helm	@	Blue Eyed Knight Set	@	11	@	11	@	12	@	12	@	6	@	0	@	11	@	6	@	10	@	4.5	@	400	@	Unisex	@	Helms
+Blue Eyed Knight Cuirass	@	Blue Eyed Knight Set	@	32	@	32	@	36	@	24	@	15	@	0	@	32	@	19	@	21	@	10.5	@	450	@	Unisex	@	Chest Armor
+Blue Eyed Knight Gauntlets	@	Blue Eyed Knight Set	@	17	@	17	@	19	@	14	@	9	@	0	@	17	@	12	@	14	@	6.2	@	450	@	Unisex	@	Chest Armor
+Blue Eyed Knight Greaves	@	Blue Eyed Knight Set	@	17	@	17	@	19	@	14	@	9	@	0	@	17	@	12	@	14	@	6.2	@	450	@	Unisex	@	Chest Armor
+Barbarian Set	@	Barbarian Set	@	0	@	0	@	0	@	0	@	0	@	0	@	0	@	0	@	0	@	0	@	200	@	Unisex	@	Light Armor
+Barbarian Clothes	@	Barbarian Set	@	0	@	0	@	0	@	0	@	0	@	0	@	0	@	0	@	0	@	0	@	200	@	Unisex	@	Chest Armor
+Barbarian Armbands	@	Barbarian Set	@	0	@	0	@	0	@	0	@	0	@	0	@	0	@	0	@	0	@	0	@	200	@	Unisex	@	Chest Armor
+Barbarian Leggings	@	Barbarian Set	@	0	@	0	@	0	@	0	@	0	@	0	@	0	@	0	@	0	@	0	@	200	@	Unisex	@	Chest Armor
