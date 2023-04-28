@@ -1,8 +1,13 @@
 
 //- import sections
 
+<<<<<<< Upstream, based on branch 'develop' of https://github.com/IncongruentDes/demonSouls.git
 // - I am a test line
 // - I am a test line part 3
+=======
+// - I am a test line 2
+// - conflict
+>>>>>>> ea274ba ?
 import java.io.*;  
 import java.io.File;
 import java.io.FileNotFoundException;
