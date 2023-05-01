@@ -24,7 +24,7 @@ public class Main {
 				sheildList, weaponList, ringList);
 		
 		// - input/calculator section
-		inputs();
+		inputs(weaponList, armorList, sheildList, ringList, magicSet, fullset);
 		
 
 
@@ -54,39 +54,57 @@ public class Main {
 	}
 	
 	// -input section
-	public static void inputs() {
+	public static void inputs(ArrayList<weapons> weaponList, ArrayList<armor> armorList, ArrayList<sheilds> sheildList, ArrayList<rings> ringList,
+			ArrayList<magic> magicList, ArrayList<equipment> fullSet) {
 		System.out.println("Welcome to the Demon Souls Database. If you'd like to search the entire database, please hit 'enter'.\n"
 				+ "Otherwise, please type 'weapons' for weapons, 'armor' for armor, 'sheilds' for sheilds', 'rings' for rings and "
 				+ "'magic for magic'");
 		
 		
 		Scanner myObj = new Scanner(System.in);  // Create a Scanner object
-		String input = myObj.nextLine();  // Read user input
+		String input = myObj.nextLine().toLowerCase();  // Read user input
 
 	    while (true) {
 	        if (input.equals("weapons")) {
-	            // TODO
+	            findObject(weaponList, "weapon");
 	            break;
 	        } else if (input.equals("armor")) {
-	            // TODO
+	        	 findObject(armorList, "armor");
 	            break;
 	        } else if (input.equals("shields")) {
-	            // TODO
+	        	findObject(sheildList, "sheild");
 	            break;
 	        } else if (input.equals("rings")) {
-	            // TODO
+	        	findObject(ringList, "ring");
 	            break;
 	        } else if (input.equals("magic")) {
-	            // TODO
+	        	findObject(magicList, "magic");
 	            break;
 	        } else if (input.equals("")) {
-	            //TODO
+	        	findObject(fullSet, "item");
 	        	break;
 	        } else {
-	            System.out.println("You did not enter a valid option. Please try again:");
-	            input = myObj.nextLine();
+	            System.out.println("You did not enter a valid option.  If you'd like to search the entire database, please hit 'enter'.\\n\"\r\n"
+	            		+ "Otherwise, please type 'weapons' for weapons, 'armor' for armor, 'sheilds' for sheilds', 'rings' for rings and \"\r\n"
+	            		+ "'magic for magic' ");
+	            input = myObj.nextLine().toLowerCase();
 	        }
 	    }
+		
+		
+	}
+	
+	public static void findObject(ArrayList<? extends equipment> List, String str) {
+		System.out.println("please enter the name of the " + str + " that you wish to look up \n");
+		
+		Scanner myObj = new Scanner(System.in);  // Create a Scanner object
+		String input = myObj.nextLine().toLowerCase();  // Read user input
+		
+		for (int x = 0; x < List.size(); x++) {
+			if (List.get(x).name.toLowerCase().contains(input.toLowerCase())) {
+				System.out.println(List.get(x));
+			}
+		}
 		
 		
 	}

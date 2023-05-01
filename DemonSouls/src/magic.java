@@ -1,6 +1,5 @@
 // - Deal with magic separately, not as an equipment extension
-public class magic {
-	public String name;
+public class magic extends equipment {
 	public String alignment;
 	public Float mpCost;
 	public String duration;
