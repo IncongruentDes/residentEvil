@@ -16,5 +16,11 @@ public class rings extends equipment {
 		String str = name + ": " + effect;
 		return str;
 	}
+	
+	public String fullStats() {
+		String str = name + ": " + effect + "\n";
+		str += details + "\n";
+		return str;
+	}
 
 }

@@ -38,4 +38,17 @@ public class sheilds extends equipment{
 		String str = type + " Shield: " + name;
 		return str;
 	}
+	
+	public String fullStats() {
+		String str = name + ": " + type + " shield \n";
+		str += "Durability: " + Durability + " Weight: " + weight + "\n";
+		str +=  "Physical Attack Power: " + physicalAttack + "\n" + 
+				"Magic Attack Power: " + magicAttack + "\n" + 
+				"Fire Attack Power: " + fireAttack + "\n" + 
+				"Piercing Damage" + piercing + "\n" + 
+				"Physical Defense: " + physicalDefence + "\n" + 
+				"Fire Defense: " + fireDefence + "\n" + 
+				"Guard Break Reduction: " + guardBreakReduction + "\n";
+		return str;
+	}
 }

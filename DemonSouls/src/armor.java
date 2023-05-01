@@ -40,9 +40,29 @@ public class armor extends equipment{
 		magicDefense = MagicDefense;
 		fireDefense = FireDefense;
 		gender = Gender;
-		
-		
+				
 	}
+	
+	public String fullStats() {
+		String str = name + ": " + type + "\n";
+		str += "Durability: " + Durability + ", Weight: " + weight + "\n";
+		str += "family: " + family + "\n" +
+				"Normal Defense: " + family + "\n" + 
+				"Blunt Defense: " + bluntDefense + "\n" + 
+				"Slash Defense: " + slashDefense + "\n" + 
+				"Bleed Defense: " + bleedDefense + "\n" + 
+				"Poison Defense: " + poisonDefense + "\n" + 
+				"Plague Defense: " + plagueDefense + "\n" + 
+				"Pierce Defense: " + pierceDefense + "\n" + 
+				"Magic Defense: " + magicDefense + "\n" + 
+				"Fire Defense: " + fireDefense + "\n" + 
+				"Gender: " + gender + "\n";
+		
+				
+		return str;
+	}
+	
+	
 	
 	
 }

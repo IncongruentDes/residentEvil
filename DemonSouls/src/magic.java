@@ -18,6 +18,17 @@ public class magic extends equipment {
 		
 	}
 	
+	public String fullStats() {
+		String str =  name + " (" + alignment + "):  " + spellType;
+		str += "\nMP Cost: " + mpCost + "\n" + 
+		"Duration: " + duration + "\n" + 
+		"Slot Cost " + slotCost + "\n";
+		return str;
+		
+		
+		
+	}
+	
 	
 	public String toString() {
 		String str =  spellType + " (" + alignment + "):  " + name;

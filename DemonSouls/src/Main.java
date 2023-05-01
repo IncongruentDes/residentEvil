@@ -95,7 +95,8 @@ public class Main {
 	}
 	
 	public static void findObject(ArrayList<? extends equipment> List, String str) {
-		System.out.println("please enter the name of the " + str + " that you wish to look up \n"
+		System.out.println("please enter the name of the " + str + " that you wish t"
+				+ "o look up \n"
 				+ "To see all items, hit enter.");
 		
 		Scanner myObj = new Scanner(System.in);  // Create a Scanner object
@@ -104,13 +105,12 @@ public class Main {
 		while (true) {
 			for (int x = 0; x < List.size(); x++) {
 				if (List.get(x).name.toLowerCase().contains(input.toLowerCase())) {
-					System.out.println(List.get(x));
-					System.out.println(List.get(x).name);
+					System.out.println(List.get(x).fullStats());
 				}
 			}	
-			System.out.println("to search again, please type your next query. To end this program, please type 'break'");
+			System.out.println("to search again, please type your next query. To end this program, please type 'done'");
 			input = myObj.nextLine().toLowerCase();
-			if (input.toLowerCase() == "done") {
+			if (input.toLowerCase().equals("done")) {
 				break;
 			}
 		}

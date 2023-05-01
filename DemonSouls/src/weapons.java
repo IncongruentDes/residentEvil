@@ -52,10 +52,23 @@ public class weapons extends equipment {
 	
 	public String fullStats() {
 		String str = name + ": " + type + "\n";
-		str += physAttack + " " + magAttack + " " + fireAttack + " " + bleeding + " " + poison + " " + 
-		plague + " " + critStrike + " " + damageRed + " " + magFireRed + " " + guardBreak + " " + range + " " + magAdjust;
+		str += "Durability: " + Durability + " Weight: " + weight + "\n";
+		str +=  "Physical Attack Power: " + physAttack + "\n" + 
+				"Magic Attack Power: " + magAttack + "\n" + 
+				"Fire Attack Power: " + fireAttack + "\n" + 
+				"Bleeding: " + bleeding + "\n" + 
+				"Poison: " + poison + "\n" + 
+				"Critical Strike: "  + critStrike + "\n" + 
+				"Damage Reduction: " + damageRed + "\n" + 
+				"Magic and Fire Reduction: " + magFireRed + "\n" + 
+				"Guard Break Reduction " + guardBreak + "\n" + 
+				"Range: " + range + "\n" + 
+				"Magic Adjustment: " + magAdjust + "\n";
+				
 		return str;
 	}
+	
+	
 	
 	
 }

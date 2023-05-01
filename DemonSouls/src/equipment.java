@@ -11,5 +11,10 @@ public class equipment {
 		return str;
 	}
 	
+	public String fullStats() {
+		String str = "";
+		return str;
+	}
+	
 	
 }
