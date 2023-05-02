@@ -1,0 +1,34 @@
+Achievement	@	Status	@	Requirements
+So Long, RC	@	FALSE	@	Obtain all trophies.
+First Escape	@	FALSE	@	Escape from Jill's apartment building
+Somebody to Lean On	@	FALSE	@	Escape from uptown Raccoon City.
+Escape from the City	@	FALSE	@	Make it out of downtown Raccoon City.
+I Don't Feel So Good	@	FALSE	@	Leave the clock tower plaza.
+Dominator	@	FALSE	@	Complete the game on "Inferno."
+Basic Chemistry	@	FALSE	@	Craft an item.
+Gunsmith	@	FALSE	@	Improve a weapon.
+Get Organized	@	FALSE	@	Expand your inventory.
+Nemesis Down	@	FALSE	@	Cause Nemesis to relinquish an item.
+Nemesis Down?	@	FALSE	@	Defeat Nemesis on the rooftop.
+Power Stones	@	FALSE	@	Place all jewels in the clock tower monument.
+The Carlos Express	@	FALSE	@	Leave R.P.D.
+An Unfortunate End	@	FALSE	@	Defeat zombie Brad.
+Jill Valentine	@	FALSE	@	Complete the game with an S rank on "Inferno."
+I Need a Hero	@	FALSE	@	Withstand the zombie siege.
+The Pursuer	@	FALSE	@	Follow Nicholai deeper underground.
+Electric Slide	@	FALSE	@	Gather all the fuses in the warehouse within 5 minutes.
+Nemesis Down!?	@	FALSE	@	Defeat Stage 2 Nemesis.
+Nemesis Down!!!	@	FALSE	@	Defeat Stage 3 Nemesis.
+Hello, Charlie!	@	FALSE	@	Destroy a Charlie Doll.
+Two For One Deal	@	FALSE	@	Defeat two enemies with a single shot.
+Bookworm	@	FALSE	@	Read all story files.
+Goodbye, Charlie!	@	FALSE	@	Destroy all Charlie dolls.
+Kendo's Armory	@	FALSE	@	Collect all weapons in the campaign.
+RE: Master of Unlocking	@	FALSE	@	Unlock all safes, lockers, strongboxes, and pickable locks.
+Survivor	@	FALSE	@	Complete the game on "Standard" or higher.
+Veteran	@	FALSE	@	Complete the game on "Hardcore" or higher.
+Conqueror	@	FALSE	@	Complete the game on "Nightmare" or higher.
+Sensational Work!	@	FALSE	@	Complete the game with an S rank.
+Minimalist	@	FALSE	@	Complete the game without opening the item box.
+I Might Need These Later!	@	FALSE	@	Complete the game using 1 or fewer recovery items.
+Sprinter	@	FALSE	@	Complete the game in under 2 hours of play time.
