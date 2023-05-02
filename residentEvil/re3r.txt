@@ -1,4 +1,4 @@
-Achievement	@	Status	@	Requirements
+Achievement	@	Status	@	Requirement
 So Long, RC	@	FALSE	@	Obtain all trophies.
 First Escape	@	FALSE	@	Escape from Jill's apartment building
 Somebody to Lean On	@	FALSE	@	Escape from uptown Raccoon City.
