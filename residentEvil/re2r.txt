@@ -1,0 +1,43 @@
+Achievement	@	Status	@	Requirements
+Raccoon City Native	@	FALSE	@	Obtain all trophies.
+Welcome to the City of the Dead	@	FALSE	@	Make it to the police station.
+Path to the Goddess	@	FALSE	@	Solve the Goddess Statue puzzle.
+Never-Ending Rain	@	FALSE	@	Escape the police station.
+Hack Complete	@	FALSE	@	Complete Ada's segment.
+Hide and Seek	@	FALSE	@	Complete Sherry's segment.
+A Great Need for a Shower	@	FALSE	@	Escape from the sewers.
+A Hero Emerges	@	FALSE	@	Complete Leon's story.
+A Heroine Emerges	@	FALSE	@	Complete Claire's story.
+Broken Umbrella	@	FALSE	@	Witness the true ending.
+The Basics of Survival	@	FALSE	@	Combine two items together.
+Hip to Add Squares	@	FALSE	@	Increase your inventory slots.
+Customizer	@	FALSE	@	Customize a weapon.
+Don't Need No Stinkin' Gun	@	FALSE	@	Defeat an enemy with a knife.
+Eat This!	@	FALSE	@	Counterattack with a sub-weapon.
+That'll Hold 'Em	@	FALSE	@	Use Wooden Boards to board up a window.
+Vermin Extermination	@	FALSE	@	Destroy a Mr. Raccoon.
+A Vault-like Mind	@	FALSE	@	Open a portable safe.
+First Break-In	@	FALSE	@	Open a dial safe.
+Bon Appétit	@	FALSE	@	Shoot the grenade you fed to an enemy.
+Zombie Roundup	@	FALSE	@	Kill 3 enemies at once with a sub-weapon.
+Like Skeet Shooting	@	FALSE	@	Shoot a zombie dog or a licker out of the air.
+Keep Their Heads Ringin'	@	FALSE	@	Paralyze a licker's sense of hearing.
+Hats Off!	@	FALSE	@	Shoot Tyrant's hat off his head.
+Gotcha!	@	FALSE	@	Defeat Stage 2 G using the crane only once.
+Treasure Hunter	@	FALSE	@	Using the photo hints, find 2 hidden items.
+A Waist of Space	@	FALSE	@	Expand inventory slots to max.
+One Slick Super-spy	@	FALSE	@	Use only the EMF Visualizer to complete Ada's gameplay segment.
+Young Escapee	@	FALSE	@	Escape the bedroom within 60 seconds during Sherry's segment.
+With Time to Spare	@	FALSE	@	Defeat Stage 4 G with 4+ minutes left until detonation.
+In the Blink of an Eye	@	FALSE	@	Defeat Super Tyrant with 5+ minutes left until detonation.
+Lore Explorer	@	FALSE	@	Read all of the files.
+Complete Vermin Extermination	@	FALSE	@	Destroy all Mr. Raccoons.
+Master of Unlocking	@	FALSE	@	Open all of the safes and locks in the game.
+Leon "S." Kennedy	@	FALSE	@	Complete Leon's story on "Standard" or "Hardcore" with an S rank.
+Sizzling Scarlet Hero	@	FALSE	@	Complete Claire's story on "Standard" or "Hardcore" with an S rank.
+Hardcore Rookie	@	FALSE	@	Complete Leon's story on "Hardcore" game mode.
+Hardcore College Student	@	FALSE	@	Complete Claire's story on "Hardcore" game mode.
+Frugalist	@	FALSE	@	Complete the game without using a recovery item.
+Minimalist	@	FALSE	@	Clear the game without opening the item box.
+A Small Carbon Footprint	@	FALSE	@	Take 14000 steps or fewer in one playthrough.
+Grim Reaper	@	FALSE	@	Complete "The 4th Survivor" extra mode.
