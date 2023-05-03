@@ -1,4 +1,3 @@
-Achievement	@	Status	@	Requirements
 Cuz Boredom Kills Me	@	FALSE	@	Obtain all trophies.
 Knife Basics	@	FALSE	@	Parry an enemy with a knife
 My Preferred Piece	@	FALSE	@	Upgrade a weapon.
