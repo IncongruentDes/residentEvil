@@ -18,4 +18,8 @@ public class achievement {
 		
 		return str;
 	}
+	
+	public void toggleBool(boolean as) {
+		status = as;
+	}
 }
