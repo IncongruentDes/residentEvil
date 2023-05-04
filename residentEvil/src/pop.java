@@ -6,9 +6,77 @@ import java.awt.Font;
 import java.awt.BorderLayout;
 
 public class pop {
-    pop(String name, ArrayList<achievement> arr) {
-        String str = stringMaker(arr);
-        message(name, arr);
+	static String name;
+ 	static ArrayList<achievement> re2;
+ 	static ArrayList<achievement> re3;
+ 	static ArrayList<achievement> re4;
+	
+	
+    pop(String Name, ArrayList<achievement> re2r, ArrayList<achievement> re3r, ArrayList<achievement> re4r) {
+    	name = Name;
+    	re2 = re2r;
+    	re3 = re3r;
+    	re4 = re4r;
+    	
+    	
+    	
+    	pickItem();
+
+    }
+    
+    public static void pickItem() {
+        JPanel panel = new JPanel();
+        panel.setLayout(new BoxLayout(panel, BoxLayout.Y_AXIS));
+
+        JRadioButton radioButton2 = new JRadioButton("re2");
+        radioButton2.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                System.out.println(2);
+            }
+        });
+
+        JRadioButton radioButton3 = new JRadioButton("re3");
+        radioButton3.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                System.out.println(3);
+            }
+        });
+
+        JRadioButton radioButton4 = new JRadioButton("re4");
+        radioButton4.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                System.out.println(4);
+            }
+        });
+
+        ButtonGroup buttonGroup = new ButtonGroup();
+        buttonGroup.add(radioButton2);
+        buttonGroup.add(radioButton3);
+        buttonGroup.add(radioButton4);
+
+        panel.add(radioButton2);
+        panel.add(radioButton3);
+        panel.add(radioButton4);
+
+        int result = JOptionPane.showConfirmDialog(null, panel, "Please select a game",
+                JOptionPane.OK_CANCEL_OPTION, JOptionPane.PLAIN_MESSAGE);
+        if (result == JOptionPane.OK_OPTION) {
+            if (radioButton2.isSelected()) {
+                String str = stringMaker(re2);
+            	message(name, re2);
+            } else if (radioButton3.isSelected()) {
+                String str = stringMaker(re3);
+            	message(name, re3);
+            } else if (radioButton4.isSelected()) {
+                String str = stringMaker(re4);
+            	message(name, re4);
+            } else {
+                System.out.println("No option selected");
+            }
+        }
     }
 
     public static void message(String name, ArrayList<achievement> arr) {
@@ -18,10 +86,13 @@ public class pop {
             JPanel linePanel = new JPanel(new BorderLayout(0, 0));
             JCheckBox checkBox = new JCheckBox();
             achievement achievement = arr.get(i);
+            if (achievement.status) {
+                checkBox.setSelected(true);
+            }
             checkBox.addActionListener(new ActionListener() {
                 @Override
                 public void actionPerformed(ActionEvent e) {
-                	boolean checked = checkBox.isSelected();
+                    boolean checked = checkBox.isSelected();
                     achievement.toggleBool(checked);
                 }
             });

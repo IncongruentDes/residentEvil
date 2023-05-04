@@ -6,14 +6,11 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		ArrayList<achievement> arr = fileReader("re2r.txt", "Resident Evil 2 Remake");
-		fileReader("re3r.txt", "Resident Evil 3 Remake");
-		fileReader("re4r.txt", "Resident Evil 4 Remake");
+		ArrayList<achievement> re2r = fileReader("re2r.txt", "Resident Evil 2 Remake");
+		ArrayList<achievement> re3r = fileReader("re3r.txt", "Resident Evil 3 Remake");
+		ArrayList<achievement> re4r = fileReader("re4r.txt", "Resident Evil 4 Remake");
 		
-		pop Pop = new pop("Resident Evil 2 Achivements", arr);
-
-
-
+		pop Pop = new pop("Resident Evil 2 Achivements", re2r, re3r, re4r);
 	}
 	
 	public static ArrayList<achievement> fileReader(String text, String games)
@@ -24,12 +21,13 @@ public class Main {
 		
 		//-file reading
 		try {
-			Scanner scanner = new Scanner(new File(text));
+			File newFile = new File(text);
+			Scanner scanner = new Scanner(newFile);
 
 			while (scanner.hasNextLine()) {
 				String curLine = scanner.nextLine();
 				String[] split = curLine.split("@");
-				achievement curAch = new achievement(split[0].strip(), Boolean.parseBoolean(split[1].strip()), split[2].strip(), games);
+				achievement curAch = new achievement(split[0].strip(), Boolean.parseBoolean(split[1].strip()), split[2].strip(), games, newFile);
 				game.add(curAch);
 			}
 
