@@ -1,30 +1,30 @@
 So Long, RC	@	FALSE	@	Obtain all trophies.
-First Escape	@	FALSE	@	Escape from Jill's apartment building
-Somebody to Lean On	@	FALSE	@	Escape from uptown Raccoon City.
-Escape from the City	@	FALSE	@	Make it out of downtown Raccoon City.
-I Don't Feel So Good	@	FALSE	@	Leave the clock tower plaza.
+First Escape	@	TRUE	@	Escape from Jill's apartment building
+Somebody to Lean On	@	TRUE	@	Escape from uptown Raccoon City.
+Escape from the City	@	TRUE	@	Make it out of downtown Raccoon City.
+I Don't Feel So Good	@	TRUE	@	Leave the clock tower plaza.
 Dominator	@	FALSE	@	Complete the game on "Inferno."
-Basic Chemistry	@	FALSE	@	Craft an item.
-Gunsmith	@	FALSE	@	Improve a weapon.
-Get Organized	@	FALSE	@	Expand your inventory.
-Nemesis Down	@	FALSE	@	Cause Nemesis to relinquish an item.
-Nemesis Down?	@	FALSE	@	Defeat Nemesis on the rooftop.
+Basic Chemistry	@	TRUE	@	Craft an item.
+Gunsmith	@	TRUE	@	Improve a weapon.
+Get Organized	@	TRUE	@	Expand your inventory.
+Nemesis Down	@	TRUE	@	Cause Nemesis to relinquish an item.
+Nemesis Down?	@	TRUE	@	Defeat Nemesis on the rooftop.
 Power Stones	@	FALSE	@	Place all jewels in the clock tower monument.
-The Carlos Express	@	FALSE	@	Leave R.P.D.
-An Unfortunate End	@	FALSE	@	Defeat zombie Brad.
+The Carlos Express	@	TRUE	@	Leave R.P.D.
+An Unfortunate End	@	TRUE	@	Defeat zombie Brad.
 Jill Valentine	@	FALSE	@	Complete the game with an S rank on "Inferno."
-I Need a Hero	@	FALSE	@	Withstand the zombie siege.
-The Pursuer	@	FALSE	@	Follow Nicholai deeper underground.
+I Need a Hero	@	TRUE	@	Withstand the zombie siege.
+The Pursuer	@	TRUE	@	Follow Nicholai deeper underground.
 Electric Slide	@	FALSE	@	Gather all the fuses in the warehouse within 5 minutes.
-Nemesis Down!?	@	FALSE	@	Defeat Stage 2 Nemesis.
-Nemesis Down!!!	@	FALSE	@	Defeat Stage 3 Nemesis.
-Hello, Charlie!	@	FALSE	@	Destroy a Charlie Doll.
-Two For One Deal	@	FALSE	@	Defeat two enemies with a single shot.
+Nemesis Down!?	@	TRUE	@	Defeat Stage 2 Nemesis.
+Nemesis Down!!!	@	TRUE	@	Defeat Stage 3 Nemesis.
+Hello, Charlie!	@	TRUE	@	Destroy a Charlie Doll.
+Two For One Deal	@	TRUE	@	Defeat two enemies with a single shot.
 Bookworm	@	FALSE	@	Read all story files.
 Goodbye, Charlie!	@	FALSE	@	Destroy all Charlie dolls.
-Kendo's Armory	@	FALSE	@	Collect all weapons in the campaign.
-RE: Master of Unlocking	@	FALSE	@	Unlock all safes, lockers, strongboxes, and pickable locks.
-Survivor	@	FALSE	@	Complete the game on "Standard" or higher.
+Kendo's Armory	@	TRUE	@	Collect all weapons in the campaign.
+RE: Master of Unlocking	@	TRUE	@	Unlock all safes, lockers, strongboxes, and pickable locks.
+Survivor	@	TRUE	@	Complete the game on "Standard" or higher.
 Veteran	@	FALSE	@	Complete the game on "Hardcore" or higher.
 Conqueror	@	FALSE	@	Complete the game on "Nightmare" or higher.
 Sensational Work!	@	FALSE	@	Complete the game with an S rank.

@@ -1,11 +1,11 @@
 Cuz Boredom Kills Me	@	FALSE	@	Obtain all trophies.
-Knife Basics	@	FALSE	@	Parry an enemy with a knife
-My Preferred Piece	@	FALSE	@	Upgrade a weapon.
+Knife Basics	@	TRUE	@	Parry an enemy with a knife
+My Preferred Piece	@	TRUE	@	Upgrade a weapon.
 A Masterpiece	@	FALSE	@	Get the exclusive upgrade for a weapon.
-Nice One, Stranger!	@	FALSE	@	Complete a request for the Merchant.
-Talk About Near-Death Experience!	@	FALSE	@	Rescue Ashley as she's being carried away by the enemy.
+Nice One, Stranger!	@	TRUE	@	Complete a request for the Merchant.
+Talk About Near-Death Experience!	@	TRUE	@	Rescue Ashley as she's being carried away by the enemy.
 Revolt Against the Revolting	@	FALSE	@	Destroy a Clockwork Castellan.
-Harpoon Hurler	@	FALSE	@	Defeat Del Lago.
+Harpoon Hurler	@	TRUE	@	Defeat Del Lago.
 Grilled Big Cheese	@	FALSE	@	Defeat Bitores Méndez.
 Wave Goodbye, Right Hand	@	FALSE	@	Defeat the Verdugo.
 No Thanks, Bro!	@	FALSE	@	Defeat Ramón Salazar.
@@ -35,4 +35,4 @@ Sprinter	@	FALSE	@	Complete the main story within 8 hours.
 Frugalist	@	FALSE	@	Complete the main story without using a recovery item.
 Minimalist	@	FALSE	@	Complete the main story using only knives and handguns. (Excluding specific battles.)
 Silent Stranger	@	FALSE	@	Complete the main story without talking to the Merchant once.
-Amateur Shooter	@	FALSE	@	Complete a game at the shooting range.
+Amateur Shooter	@	TRUE	@	Complete a game at the shooting range.
