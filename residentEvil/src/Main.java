@@ -5,12 +5,13 @@ import java.util.Scanner;
 public class Main {
 
 	public static void main(String[] args) {
-		pop();
 		
-		fileReader("re2r.txt", "Resident Evil 2 Remake");
+		ArrayList<achievement> arr = fileReader("re2r.txt", "Resident Evil 2 Remake");
 		fileReader("re3r.txt", "Resident Evil 3 Remake");
 		fileReader("re4r.txt", "Resident Evil 4 Remake");
 		
+		pop Pop = new pop("Resident Evil 2 Achivements", arr);
+
 
 
 	}
