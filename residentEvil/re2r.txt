@@ -1,4 +1,4 @@
-Raccoon City Native	@	FALSE	@	Obtain all trophies.
+(test)Raccoon City Native	@	FALSE	@	Obtain all trophies.
 Welcome to the City of the Dead	@	FALSE	@	Make it to the police station.
 Path to the Goddess	@	FALSE	@	Solve the Goddess Statue puzzle.
 Never-Ending Rain	@	FALSE	@	Escape the police station.
